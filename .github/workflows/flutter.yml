@@ -1,5 +1,4 @@
 name: Flutter CI
-name: Flutter CI
 
 on:
   push:
@@ -33,4 +32,3 @@ jobs:
         with:
           name: apk
           path: flutter_app/build/app/outputs/flutter-apk/app-release.apk
-
